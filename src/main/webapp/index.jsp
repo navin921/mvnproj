@@ -6,11 +6,24 @@
         <title>Hello Java EE Continuous Delivery!</title>
     </head>
     <body>
-        <h1>Demo Project from Devops</h1>
-        <h1>.... TEST CODE .....</h1>
-        <h1>.... TEST CODE .....</h1>
-        <h1>.... TEST CODE .....</h1>
-        <h1>.... TEST CODE .....</h1>
+<table>
+    <caption>Users Info</caption>
+    <tr>
+        <th>No.</th>
+        <th>Name</th>
+        <th>Age</th>
+    </tr>
+    <tr>
+        <td>1</td>
+        <td>Peter Parker</td>
+        <td>16</td>
+    </tr>
+    <tr>
+        <td>2</td>
+        <td>Clark Kent</td>
+        <td>34</td>
+    </tr>
+</table>
 
 
 <table width="40%" bgcolor="yellow" align="center" border="2">
