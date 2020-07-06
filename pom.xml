@@ -3,9 +3,9 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>sathya</groupId>
     <artifactId>TestProject</artifactId>
-    <version>1.5</version>
+    <version>1.0</version>
     <packaging>war</packaging>
-    <name>myproj</name>
+    <name>navproj</name>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
